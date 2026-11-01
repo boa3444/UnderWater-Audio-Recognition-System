@@ -1,0 +1,6 @@
+*.wav
+*.zip
+dataset/
+sample_ds/
+.ipynb_checkpoints/
+__pycache__/
